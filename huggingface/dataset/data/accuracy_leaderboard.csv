@@ -1,0 +1,7 @@
+task,model,model_family,model_size,quant,accuracy,stderr
+arc_challenge,Qwen/Qwen2.5-32B-Instruct-AWQ,Qwen2.5,32B,awq,0.7090443686006825,0.013273077865907595
+gsm8k,RedHatAI/gemma-4-31B-it-NVFP4,Gemma,31B,nvfp4,0.934040940106141,0.006836951192034221
+hellaswag,Qwen/Qwen2.5-32B-Instruct-AWQ,Qwen2.5,32B,awq,0.68442541326429,0.0046379449659146865
+mmlu,RedHatAI/gemma-4-31B-it-FP8-block,Gemma,31B,fp8,0.8753738783649053,0.002698302441385398
+mmlu_abstract_algebra,google/gemma-4-31B-it,Gemma,31B,bf16,0.8732374448155675,0.002720018362549874
+winogrande,hugging-quants/Meta-Llama-3.1-8B-Instruct-AWQ-INT4,Llama-3.1,8B,awq,0.7782162588792423,0.011676109244497811
