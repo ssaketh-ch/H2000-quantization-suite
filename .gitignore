@@ -20,6 +20,7 @@ env/
 slurm-*.out
 results/**/logs/*
 !results/**/logs/README.md
+datasets/
 
 # Raw generated benchmark artifacts. Keep curated CSVs and READMEs tracked.
 results/accuracy/evals/**
