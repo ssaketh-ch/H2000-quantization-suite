@@ -4,6 +4,8 @@ A systematic comparison of 40 quantised instruction-tuned LLMs measured on an NV
 The suite covers both **serving throughput** (vLLM, ShareGPT prompts) and **model quality** (lm-eval, six standard tasks)
 across five quantisation formats and six model families.
 
+Hugging Face Dataset - https://huggingface.co/datasets/ssakethch/h200-quantization-benchmarks
+Hugging Face Dashboard - https://huggingface.co/spaces/ssakethch/h200-quantization-dashboard
 ---
 
 ## Contents
